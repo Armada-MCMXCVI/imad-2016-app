@@ -1,7 +1,7 @@
 console.log('Loaded!');
 
 //Change the value of content
-var element = document.getElementById('main.txt');
+var element = document.getElementById('main-txt');
 element.innerHtml = 'Kya Haal Chaal';
 
 //Change color
