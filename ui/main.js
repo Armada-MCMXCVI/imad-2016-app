@@ -12,5 +12,5 @@ function marginTop () {
     img.style.margintop = margintop + 'px';
 }
 img.onclick = function () {
-    var interval = setInterval(movetop,50);
+    var interval = setInterval(moveTop,50);
 }
