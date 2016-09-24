@@ -6,10 +6,10 @@ element.innerHtml = 'Kya Haal Chaal';
 
 //Change color
 var img = document.getElementById('madi');
-var marginTop= 0;
+var margintop= 0;
 function marginTop () {
-    margintop = marginTop + 5;
-    img.style.margiTop = marginTop + 'px';
+    margintop = margintop + 5;
+    img.style.margintop = margintop + 'px';
 }
 img.onclick = function () {
     var interval = setInterval(movetop,50);
