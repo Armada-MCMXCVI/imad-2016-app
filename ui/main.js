@@ -2,7 +2,7 @@ console.log('Loaded!');
 
 //Change the value of content
 var element = document.getElementById('main-txt');
-element.innerHTML = "Kya Haal Chaal";
+element.innerHTML = "Hi bro";
 
 //Change color
 var img = document.getElementById('madi');
